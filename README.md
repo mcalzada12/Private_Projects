@@ -1,2 +1,2 @@
 # Private_Projects
-personla hobby projects 
+personal hobby projects 
