@@ -558,7 +558,7 @@ tab_log, tab_progress, tab_history, tab_export = st.tabs(
 
 # ===== Tab 1: Log a job =====
 with tab_log:
-    st.subheader("Log a new job")
+    st.subheader("Agrega un Trabajo/ Ganancia")
     st.caption(
         "Each time you finish a job and get paid, log it here. The amount will be "
         "split automatically between debt repayment and your savings balance."
