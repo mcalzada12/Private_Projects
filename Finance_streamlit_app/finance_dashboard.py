@@ -18,7 +18,7 @@ import io
 
 # ---------- Page config ----------
 st.set_page_config(
-    page_title="Dashboard Para tus finazas de Emprendedora Estética ✨",
+    page_title="Dashboard Para tus finazas de Emprendedora ✨",
     page_icon="💅",
     layout="wide",
 )
