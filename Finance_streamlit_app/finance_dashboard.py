@@ -539,7 +539,7 @@ total_revenue = float(jobs_df["revenue"].sum()) if not jobs_df.empty else 0.0
 remaining = max(initial_investment - total_debt_paid, 0.0)
 pct_paid = min((total_debt_paid / initial_investment * 100) if initial_investment > 0 else 0.0, 100.0)
 
-st.title("💰 Business Payoff Dashboard")
+st.title("💰 Domina tus finazas Aneyins")
 st.caption(f"Initial investment: **{money(initial_investment)}** · Default debt allocation: **{int(default_debt_pct)}%**")
 
 # Top KPI row
